@@ -1,0 +1,508 @@
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\ApplicationInsights.config
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\csc.exe
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\vbc.exe
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll.config
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.pdb
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Owin.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\WebGrease.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.pdb
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.dll
+c:\users\mypc\documents\visual studio 2015\Projects\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.pdb
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\ApplicationInsights.config
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\csc.exe
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\vbc.exe
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll.config
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.pdb
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Owin.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\WebGrease.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.pdb
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csprojAssemblyReference.cache
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csproj.CoreCompileInputs.cache
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csproj.CopyComplete
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.pdb
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\ApplicationInsights.config
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\csc.exe
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\vbc.exe
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll.config
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.pdb
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Owin.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\WebGrease.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.pdb
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.dll
+C:\Users\MyPC\Downloads\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.pdb
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\ApplicationInsights.config
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\csc.exe
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\vbc.exe
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll.config
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.pdb
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Owin.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\WebGrease.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.pdb
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csprojAssemblyReference.cache
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csproj.CoreCompileInputs.cache
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csproj.CopyComplete
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.dll
+C:\Users\Laptop ASUS\Downloads\Web_banh_ngot (2) (1)\Web_banh_ngot (2)\Web_banh_ngot (2)\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.pdb
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\ApplicationInsights.config
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\csc.exe
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\vbc.exe
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll.config
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.pdb
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Owin.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\WebGrease.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.pdb
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csproj.CoreCompileInputs.cache
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csproj.CopyComplete
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.pdb
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\PagedList.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\PagedList.Mvc.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\PagedList.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\bin\PagedList.Mvc.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csprojAssemblyReference.cache
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\ApplicationInsights.config
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\csc.exe
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\vbc.exe
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll.config
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Web_banh_ngot.pdb
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Owin.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\PagedList.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\PagedList.Mvc.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\WebGrease.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.Web.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\PagedList.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\PagedList.Mvc.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Helpers.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Mvc.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Optimization.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.Razor.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\System.Web.WebPages.Razor.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Antlr3.Runtime.pdb
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Newtonsoft.Json.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\EntityFramework.SqlServer.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csprojAssemblyReference.cache
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csproj.CoreCompileInputs.cache
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.csproj.CopyComplete
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.dll
+C:\Users\Huong\Downloads\Web_banh_ngot\Web_banh_ngot\Web_banh_ngot\obj\Debug\Web_banh_ngot.pdb
