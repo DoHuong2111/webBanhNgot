@@ -1,0 +1,55 @@
+﻿@model Web_banh_ngot.Models.Entities.USER
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Xóa người dùng</h2>
+
+<h3>Bạn có chắc muốn xóa người dùng này?</h3>
+<div>
+    <h4>USER</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Họ và tên")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FULL_NAME)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Tên đăng nhập")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.USERNAME)
+        </dd>
+        <dt>
+            @Html.DisplayName("Email")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EMAIL)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Mật khẩu")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PASSWORD_)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Quay lại", "List")
+        </div>
+    }
+</div>

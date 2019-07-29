@@ -1,0 +1,64 @@
+﻿@model Web_banh_ngot.Models.Entities.BILL
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Xóa đơn hàng</h2>
+
+<h3>Bạn có chắc muốn xóa đơn hàng này?</h3>
+<div>
+    <h4>BILL</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Tên khách hàng")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CUSTOMER.NAME_CUS)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Ngày đặt")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DATE_ORDER)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Hình thức thanh toán")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PAYMENT)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Ghi chú")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NOTE_BILL)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Trạng thái đơn hàng")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.STATUS_BILL)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Quay lại", "List")
+        </div>
+    }
+</div>

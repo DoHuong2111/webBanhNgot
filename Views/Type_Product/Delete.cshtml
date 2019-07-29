@@ -1,0 +1,32 @@
+﻿@model Web_banh_ngot.Models.Entities.TYPE_PRODUCT
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Xóa</h2>
+
+<h3>Bạn có chắc muốn xóa loại bánh này?</h3>
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Tên loại bánh")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NAME_TYPE)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Quay lại", "List")
+        </div>
+    }
+</div>

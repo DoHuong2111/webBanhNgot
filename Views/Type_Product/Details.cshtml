@@ -1,0 +1,27 @@
+﻿@model Web_banh_ngot.Models.Entities.TYPE_PRODUCT
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+
+<h2>Chi tiết loại bánh</h2>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Tên loại bánh")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NAME_TYPE)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Chỉnh sửa", "Edit", new { id = Model.ID_TYPE }) |
+    @Html.ActionLink("Quay lại", "List")
+</p>

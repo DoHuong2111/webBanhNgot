@@ -1,0 +1,42 @@
+﻿@using PagedList.Mvc;
+@model PagedList.PagedList<Web_banh_ngot.Models.Entities.CUSTOMER>
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Khách hàng</h2>
+<p>
+    <button onclick="location.href='@Url.Action("Create", "Customer")';return false;">Tạo mới</button>
+</p>
+
+        <div class="table-responsive">
+            <table class="table">
+                <tr>
+                    <th>Mã khách hàng</th>
+                    <th>Tên khách hàng</th>
+                    <th>Email</th>
+                    <th>Số điện thoại</th>
+                    <th>Địa chỉ</th>
+
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ID_CUS</td>
+                        <td>@item.NAME_CUS</td>
+                        <td>@item.EMAIL_CUS</td>
+                        <td>@item.PHONE_CUS</td>
+                        <td>@item.ADDRESS_CUS</td>
+                        <td>
+                            <button onclick="location.href='@Url.Action("Edit", "Customer", new { id=@item.ID_CUS })';return false;">Chỉnh sửa</button>
+                            <button onclick="location.href='@Url.Action("Delete", "Customer", new { id=@item.ID_CUS })';return false;">Xóa</button>
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+  
+<div class="pagination">
+    @Html.PagedListPager(Model, page => Url.Action("List", new { page = page }))
+</div>

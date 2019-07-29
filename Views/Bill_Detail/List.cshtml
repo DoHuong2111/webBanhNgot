@@ -1,0 +1,41 @@
+﻿@using PagedList.Mvc;
+@model PagedList.PagedList<Web_banh_ngot.Models.Entities.BILL_DETAIL>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Bill Detail</h2>
+<p>
+    <button onclick="location.href='@Url.Action("Create", "Bill_Detail")';return false;">Create New</button>
+</p>
+        <div class="table-responsive">>
+            <table class="table">
+                <tr>
+                    <th>ID_BILL</th>
+                    <th>ID_PR</th>
+                    <th>QUANTITY</th>
+                    <th>PRICE</th>
+                </tr>
+                @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>@item.ID_BILL</td>
+                        <td>@item.ID_PR</td>
+                        <td>@item.QUANTITY</td>
+                        <td>@item.PRICE</td>
+                        @*  <td>
+                <button onclick="location.href='@Url.Action("Edit", "Bill_Detail", new { id=@item.ID_BD })';return false;">Edit</button>
+                <button onclick="location.href='@Url.Action("Delete", "Bill_Detail", new { id=@item.ID_BD })';return false;">Delete</button>
+            </td>
+                        *@
+                    </tr>
+                    }
+            </table>
+        </div>
+   
+
+<div class="pagination">
+    @Html.PagedListPager(Model, page => Url.Action("List", new { page = page }))
+</div>
+

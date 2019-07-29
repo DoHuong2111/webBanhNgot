@@ -1,0 +1,107 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Star Admin Free Bootstrap Admin Dashboard Template</title>
+    <!-- plugins:css -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/Content/Admin/fonts/materialdesignicons.min.css">
+    @*<link rel="stylesheet" href="~/Content/Admin/css4/vendor.bundle.base.css">
+        <link rel="stylesheet" href="~/Content/Admin/css4/vendor.bundle.addons.css">*@
+    <link href="~/Content/Admin/vendor.bundle.addons.css" rel="stylesheet" />
+    <link href="~/Content/Admin/vendor.bundle.base.css" rel="stylesheet" />
+    <!-- endinject -->
+    <!-- plugin css for this page -->
+    <!-- End plugin css for this page -->
+    <!-- inject:css -->
+    <link rel="stylesheet" href="~/Content/Admin/css2/style.css">
+    <!-- endinject -->
+    <link rel="shortcut icon" href="~/Content/Admin/images2/favicon.png" />
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container-scroller">
+        <!-- partial:partials/_navbar.html -->
+        <nav class="navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="text-center navbar-brand-wrapper d-flex align-items-top justify-content-center">
+                <a class="navbar-brand brand-logo" href="" style="height:70px;">
+                    <img src="~/Content/Admin/images2/logo-cake.png" height="50" />
+                </a>
+            </div>
+            <div class="navbar-menu-wrapper d-flex align-items-center">
+                <ul class="navbar-nav navbar-nav-left header-links d-none d-md-flex"></ul>
+                <div class="navbar-nav navbar-nav-right">
+                    <span class="profile-text" style="margin-right:50px;">Hello,@Session["username"]</span>
+                    <div class="123" style="color:white;">
+                        <a class=" 123" href="/User/Logout" style="color:white;font-size:13px;">Sign Out</a>
+                    </div>
+                </div>
+                <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+                    <span class="mdi mdi-menu"></span>
+                </button>
+            </div>
+        </nav>
+        <!-- partial -->
+        <div class="container-fluid page-body-wrapper">
+            <!-- partial:partials/_sidebar.html -->
+            <nav class="sidebar sidebar-offcanvas" id="sidebar">
+                <ul class="nav">
+                    <li class="nav-item nav-profile">
+                        <div class="nav-link">
+
+                        </div>
+                    </li>
+                    @Html.Action("LeftAdmin")
+                </ul>
+            </nav>
+            <!-- partial -->
+            <div class="main-panel">
+                <div class="content-wrapper">
+                    @RenderBody()
+                </div>
+                <!-- content-wrapper ends -->
+                <!-- partial:partials/_footer.html -->
+                <footer class="footer">
+                    <div class="container-fluid clearfix">
+                        <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">
+                            Copyright © 2019
+                        </span>
+                    </div>
+                </footer>
+                <!-- partial -->
+            </div>
+            <!-- main-panel ends -->
+        </div>
+        <!-- page-body-wrapper ends -->
+    </div>
+    <!-- container-scroller -->
+    <!-- plugins:js -->
+
+    <script src="~/Scripts/Admin/vendor.bundle.addons.js"></script>
+    <script src="~/Scripts/Admin/vendor.bundle.base.js"></script>
+    <!-- endinject -->
+    <!-- Plugin js for this page-->
+    <!-- End plugin js for this page-->
+    <!-- inject:js -->
+
+    <script src="~/Scripts/Admin/off-canvas.js"></script>
+    <script src="~/Scripts/Admin/misc.js"></script>
+    <!-- endinject -->
+    <!-- Custom js for this page-->
+
+    <script src="~/Scripts/Admin/dashboard.js"></script>
+    <script src="~/tinymce/js/tinymce/jquery.tinymce.min.js"></script>
+    <script src="~/tinymce/js/tinymce/tinymce.min.js"></script>
+    <script>tinymce.init({ selector: 'textarea' });</script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.min.js"></script>
+   
+    <!-- End custom js for this page-->
+</body>
+
+</html>

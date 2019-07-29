@@ -1,0 +1,7 @@
+﻿@using Web_banh_ngot.Models.Entities;
+@model List<TYPE_PRODUCT>
+
+@foreach (var item in Model)
+{
+    <li class=""><a href="@Url.Action("Type_Product","Home",new {id = @item.ID_TYPE })">@item.NAME_TYPE</a></li>
+}

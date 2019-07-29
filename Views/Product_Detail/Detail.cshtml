@@ -1,0 +1,141 @@
+﻿
+@using Web_banh_ngot.Models.Entities;
+@using PagedList.Mvc;
+@model PRODUCT
+@{
+    ViewBag.Title = "Product";
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+    var list = (PagedList.PagedList<Web_banh_ngot.Models.Entities.PRODUCT>)ViewBag.Related_products;
+    var listHotProduct = (List<Web_banh_ngot.Models.Entities.PRODUCT>)ViewBag.Hot_Product;
+    var listNewProduct = (List<Web_banh_ngot.Models.Entities.PRODUCT>)ViewBag.New_Product;
+}
+
+<div class="inner-header">
+    <div class="container">
+        <div class="pull-left">
+            <h6 class="inner-title">Sản phẩm</h6>
+        </div>
+        <div class="pull-right">
+            <div class="beta-breadcrumb font-large">
+                <a href="~/Home/Index">Trang chủ</a> / <span>Thông tin chi tiết sản phẩm</span>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+
+<div class="container">
+    <div id="content">
+        <div class="row">
+            <div class="col-sm-9">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <img src="@Url.Content("~/Content/ImageProduct/"+Model.IMAGE)" alt="" height="270">
+                    </div>
+                    <div class="col-sm-8">
+                        <div class="single-item-body">
+                            <p class="single-item-title" style="font-size:15px;">Tên sản phẩm: @Model.NAME_PR</p>
+                            <div class="space20">&nbsp;</div>
+                            <p class="single-item-price" style="font-size:15px;">
+                                Giá: @Model.PRICE
+                            </p>
+                        </div>
+
+                        <div class="clearfix"></div>
+                        <div class="space20">&nbsp;</div>
+
+                        <div class="single-item-desc" >
+                            <p class="123" style="font-size:15px;">Mô tả: @Model.DESCRIPTIONS</>
+                        </div>
+                        <div class="space20">&nbsp;</div>
+
+                        <div class="single-item-options">
+                            <a class="add-to-cart" href="/ShoppingCart/Add/@Model.ID_PR" style="width:40px;height:40px"><i class="glyphicon glyphicon-shopping-cart" style="width:40px; height:40px"></i></a>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="space40">&nbsp;</div>
+                <div class="woocommerce-tabs">
+                    <ul class="tabs">
+                        <li><a href="#tab-description" style="font-size:15px;">Mô tả</a></li>
+                    </ul>
+
+                    <div class="panel" id="tab-description">
+                        <p class="123" style="font-size:15px;">@Model.DESCRIPTIONS</p>
+                    </div>
+                </div>
+                <div class="space50">&nbsp;</div>
+                <div class="beta-products-list">
+                    <h4>Sản phẩm liên quan</h4>
+                    <div class="row">
+                        @foreach (var item in list)
+                        {
+
+                            <div class="col-sm-4">
+                                <div class="single-item">
+                                    <div class="single-item-header">
+                                        <a href="Product"><img src="@Url.Content("~/Content/ImageProduct/"+item.IMAGE)" alt="" width="260" height="250"></a>
+                                    </div>
+                                    <div class="single-item-body">
+                                        <p class="single-item-title">@item.NAME_PR</p>
+                                        <p class="single-item-price">
+                                            <span>@item.PRICE</span>
+                                        </p>
+                                    </div>
+                                    <div class="single-item-caption">
+                                        <a class="add-to-cart pull-left" href="/ShoppingCart/Add/@item.ID_PR"><i class="glyphicon glyphicon-shopping-cart"></i></a>
+                                        <a class="beta-btn primary" href="@Url.Action("Detail","Product_Detail",new {id = @item.ID_PR })">Xem chi tiết <i class="glyphicon glyphicon-chevron-right"></i></a>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                    <div class="row">
+                        <div class="pagination">
+                            @Html.PagedListPager(list, page => Url.Action("Detail", new { page = page }))
+                        </div>
+                    </div>
+                </div> <!-- .beta-products-list -->
+                </div>
+            <div class="col-sm-3 aside">
+                <div class="widget">
+                    <h3 class="widget-title">Sản phẩm khuyến mãi</h3>
+                    <div class="widget-body">
+                        <div class="beta-sales beta-lists">
+                            @foreach (var item in listHotProduct)
+                            {
+                                <div class="media beta-sales-item">
+                                    <a class="pull-left" href="Product"><img src="@Url.Content("~/Content/ImageProduct/"+item.IMAGE)" alt="" width="260" height="250"></a>
+                                    <div class="media-body">
+                                        <p>@item.NAME_PR</p> 
+                                        <span class="beta-sales-price">@item.PRICE</span>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div> <!-- best sellers widget -->
+                <div class="widget">
+                    <h3 class="widget-title">Sản phẩm mới</h3>
+                    <div class="widget-body">
+                        <div class="beta-sales beta-lists">
+                            @foreach (var item in listNewProduct)
+                            {
+                                <div class="media beta-sales-item">
+                                    <a class="pull-left" href="Product"><img src="@Url.Content("~/Content/ImageProduct/"+item.IMAGE)" alt="" width="260" height="250"></a>
+                                    <div class="media-body">
+                                        <p>@item.NAME_PR</p>
+                                        <span class="beta-sales-price">@item.PRICE</span>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div> <!-- best sellers widget -->
+            </div>
+        </div>
+    </div> <!-- #content -->
+</div> <!-- .container -->

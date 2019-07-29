@@ -1,0 +1,101 @@
+﻿@model Web_banh_ngot.Models.Entities.PRODUCT
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Xóa sản phẩm</h2>
+
+<h3>Bạn có chắc muốn xóa sản phẩm này?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Tên loại bánh")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TYPE_PRODUCT.NAME_TYPE)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Tên bánh")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NAME_PR)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Đơn vị tính")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UNIT)
+        </dd>
+        <dt>
+            @Html.DisplayName("Size")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SIZE)
+        </dd>
+        <dt>
+            @Html.DisplayName("Gía")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PRICE)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Gía cũ")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PRICE_OLD)
+        </dd>
+
+
+
+        <dt>
+            @Html.DisplayName("Sản phẩm mới")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NEW)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Sản phẩm hot")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HOT)
+        </dd>
+        <dt>
+            @Html.DisplayName("Mô tả")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DESCRIPTIONS)
+        </dd>
+        <dt>
+            @Html.DisplayName("Hình ảnh")
+        </dt>
+
+        <dd>
+            <img class="123" src="@Url.Content("~/Content/ImageProduct/"+ Model.IMAGE)" width="200" height="200" />
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Quay lại", "List")
+        </div>
+    }
+</div>

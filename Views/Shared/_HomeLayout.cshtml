@@ -1,0 +1,53 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bakery </title>
+    <link href='http://fonts.googleapis.com/css?family=Dosis:300,400' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/Home/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Content/Home/colorbox.css">
+     <link rel="stylesheet" href="~/Content/css1/settings.css">
+     <link rel="stylesheet" href="~/Content/css1/responsive.css">
+    <link rel="stylesheet" title="style" href="~/Content/Home/css/style.css">
+    <link rel="stylesheet" href="~/Content/Home/css/animate.css">
+    <link rel="stylesheet" title="style" href="~/Content/Home/css/huong-style.css">
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+</head>
+<body>
+
+    @RenderPage("~/Views/Shared/Header.cshtml")
+    @RenderBody()
+
+    @RenderPage("~/Views/Shared/Footer.cshtml")
+    <!-- include js files -->
+    <script src="~/Scripts/Home/js/jquery.js"></script>
+    <script src="~/Scripts/Home/jqueryui/jquery-ui-1.10.4.custom.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+    <script src="~/Scripts/Home/jquery.bxslider.min.js"></script>
+    <script src="~/Scripts/Home/jquery.colorbox-min.js"></script>
+    <script src="~/Scripts/Home/Animo.js"></script>
+    <script src="~/Scripts/Home/dug.js"></script>
+    <script src="~/Scripts/Home/js/scripts.min.js"></script>
+    <script src="~/Scripts/Home/js1/jquery.themepunch.tools.min.js"></script>
+    <script src="~/Scripts/Home/js1/jquery.themepunch.revolution.min.js"></script>
+    <script src="~/Scripts/Home/js/waypoints.min.js"></script>
+    <script src="~/Scripts/Home/js/wow.min.js"></script>
+    <!--customjs-->
+    <script src="~/Scripts/Home/js/custom2.js"></script>
+    <script>
+        $(document).ready(function ($) {
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 150) {
+                    $(".header-bottom").addClass('fixNav')
+                } else {
+                    $(".header-bottom").removeClass('fixNav')
+                }
+            }
+            )
+        })
+    </script>
+</body>
+</html>

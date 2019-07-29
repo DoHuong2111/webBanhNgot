@@ -1,0 +1,39 @@
+﻿@model List<Web_banh_ngot.Models.Entities.USER>
+
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Người dùng</h2>
+<p>
+    <button onclick="location.href='@Url.Action("Create", "User")';return false;">Tạo mới</button>
+</p>
+<div class="table-responsive">
+    <table class="table">
+         <tr>
+              <th>Mã người dùng</th>
+              <th>Họ và tên</th>
+              <th>Tên đăng nhập</th>
+              <th>Email</th>
+              <th>Mật khẩu</th>
+                   
+         </tr>
+        @foreach (var item in Model)
+         {
+              <tr>
+                   <td>@item.ID_US</td>
+                   <td>@item.FULL_NAME</td>
+                   <td>@item.USERNAME</td>
+                   <td>@item.EMAIL</td>
+                   <td>@item.PASSWORD_</td>
+                   <td>
+                       <button onclick="location.href='@Url.Action("Edit", "User", new { id =@item.ID_US })';return false;">Chỉnh sửa</button>
+                       <button onclick="location.href='@Url.Action("Delete", "User", new { id =@item.ID_US})';return false;">Xóa</button>
+                   </td>
+               </tr>
+         }
+    </table>
+</div>
+    
+

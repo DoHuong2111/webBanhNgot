@@ -1,0 +1,104 @@
+﻿@using PagedList.Mvc;
+@model PagedList.PagedList<Web_banh_ngot.Models.Entities.PRODUCT>
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>Sản phẩm</h2>
+<p>
+    <button onclick="location.href='@Url.Action("Create", "Product")';return false;">Tạo mới</button>
+</p>
+
+@using (Html.BeginForm("Search", "Product",FormMethod.Post))
+{
+        @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        
+            <div class="form-group" style="display:flex">
+                <div style="width:480px;float:left">
+                    @Html.Label("Tên bánh", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBox("txtName_Pr", "", htmlAttributes: new { @class = "TimKiem", @placeholder = "Nhập vào tên sản phẩm" })
+                    </div>
+                </div>
+                <div style="width:480px;float:left">
+                    @Html.Label("Loại bánh", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("ID_TYPE", new SelectList(ViewBag.ID_TYPE, "NAME_TYPE", "NAME_TYPE"), "", htmlAttributes: new { @class = "TimKiem" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group" style="display:flex">
+                <div style="width:480px;float:left">
+                    @Html.Label("Giá từ", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBox("txtTuGia", "", htmlAttributes: new { @class = "TimKiem", @placeholder = "Giá từ", @type = "text" })
+                    </div>
+                </div>
+                <div style="width:480px;float:left">
+                    @Html.Label("Đến giá", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBox("txtDenGia", "", htmlAttributes: new { @class = "TimKiem", @placeholder = "Đến giá", @type = "text" })
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Tìm kiếm" class="btn btn-default" />
+                </div>
+            </div>
+       
+    </div>
+}
+
+
+<div class="table-responsive">
+    <table class="table">
+        <tr>
+            <th>Mã bánh</th>
+            <th>Loại bánh</th>
+            <th>Tên bánh</th>
+            <th>Đơn vị tính</th>
+            <th>Size</th>
+            <th>Gía</th>
+            <th>Gía cũ</th>
+            <th>Sản phẩm mới</th>
+            <th>Sản phẩm hot</th>
+            <th>Mô tả</th>
+            <th>Hình ảnh</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.ID_PR</td>
+            <td>@item.TYPE_PRODUCT.NAME_TYPE</td>
+            <td>@item.NAME_PR</td>
+            <td>@item.UNIT</td>
+            <td>@item.SIZE</td>
+            <td>@item.PRICE</td>
+            <td>@item.PRICE_OLD</td>
+
+            <td>@item.NEW</td>
+            <td>@item.HOT</td>
+            <td>@item.DESCRIPTIONS</td>
+            <td>
+                <img src="@Url.Content("~/Content/ImageProduct/" + item.IMAGE)" />
+            </td>
+            <td>
+                <button onclick="location.href='@Url.Action("Edit", "Product", new { id = @item.ID_PR })';return false;">Chỉnh sửa</button>
+                <button onclick="location.href='@Url.Action("Details", "Product", new { id = @item.ID_PR })';return false;">Xem chi tiết</button>
+                <button onclick="location.href='@Url.Action("Delete", "Product", new { id = @item.ID_PR })';return false;">Xóa</button>
+            </td>
+        </tr>
+            }
+    </table>
+</div>
+
+<div class="pagination">
+    @Html.PagedListPager(Model, page => Url.Action("List", new { page = page }))
+</div>
+

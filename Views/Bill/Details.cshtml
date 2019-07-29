@@ -1,0 +1,58 @@
+﻿@model Web_banh_ngot.Models.Entities.BILL
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Chi tiết hóa đơn</h2>
+
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Tên khách hàng")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CUSTOMER.NAME_CUS)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Ngày đặt")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DATE_ORDER)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Hình thức thanh toán")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PAYMENT)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Ghi chú")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NOTE_BILL)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Trạng thái đơn hàng")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.STATUS_BILL)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Quay lại", "List")
+</p>

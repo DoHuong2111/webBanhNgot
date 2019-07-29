@@ -1,0 +1,85 @@
+﻿@using Web_banh_ngot.Models.Entities;
+@using PagedList.Mvc;
+@model PagedList.PagedList<Web_banh_ngot.Models.Entities.PRODUCT>
+@{
+    var type = (List<Web_banh_ngot.Models.Entities.TYPE_PRODUCT>)ViewBag.Type;
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+
+<div class="inner-header">
+    <div class="container">
+        <div class="pull-left">
+            @foreach(var item in type)
+            { 
+                <h6 class="inner-title">Sản phẩm @item.NAME_TYPE</h6>
+            }
+        </div>
+        <div class="pull-right">
+            <div class="beta-breadcrumb font-large">
+                <a href="index.html">Trang chủ</a> / <span>Sản phẩm</span>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+<div class="container">
+    <div id="content" class="space-top-none">
+        <div class="main-content">
+            <div class="space60">&nbsp;</div>
+            <div class="row">
+                <div class="col-sm-3">
+                    <ul class="aside-menu">
+                        @Html.Action("LeftType_Product")
+                    </ul>
+                </div>
+                <div class="col-sm-9">
+                    <div class="beta-products-list">
+                        @foreach (var item in type)
+                        {
+                            <h4> @item.NAME_TYPE</h4>
+                        }
+                        <div class="beta-products-details">
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="row">
+                            @foreach (var p in Model)
+                            {
+                                <div class="col-sm-4">
+                                    <div class="single-item">
+                                        <div class="single-item-header">
+                                            <a href="Product"><img src="@Url.Content("~/Content/ImageProduct/" + p.IMAGE)" alt="" width="260" height="250"></a>
+                                        </div>
+                                        <div class="single-item-body">
+                                            <p class="single-item-title">@p.NAME_PR</p>
+                                            <p class="single-item-price">
+                                                <span>@p.PRICE</span>
+                                            </p>
+                                        </div>
+                                        <div class="single-item-caption">
+                                            <a class="add-to-cart pull-left" href="/ShoppingCart/Add/@p.ID_PR"><i class="glyphicon glyphicon-shopping-cart"></i></a>
+                                            <a class="beta-btn primary" href="@Url.Action("Detail", "Product_Detail", new { id = @p.ID_PR })">Xem chi tiết <i class="glyphicon glyphicon-chevron-right"></i></a>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                        <div class="row">
+                            <div class="pagination">
+                                @Html.PagedListPager(Model, page => Url.Action("Type_Product", new { page = page }))
+                            </div>
+                        </div>
+                    </div> <!-- .beta-products-list -->
+
+                    <div class="space50">&nbsp;</div>
+
+                </div>
+            </div>
+
+                <!-- end section with sidebar and main content -->
+
+
+            </div> <!-- .main-content -->
+    </div> <!-- #content -->
+</div> <!-- .container -->
+
